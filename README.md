@@ -1,0 +1,2 @@
+# IlluminaDocs
+ILLUMINA documentation
